@@ -28,7 +28,6 @@ I enjoy working on clean architecture, smooth UI, and making apps that feel good
 
 ## 📊 GitHub Stats
 
-![Akshatra's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatra02&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatra02&layout=compact&hide_border=true)
 
 ## 📫 Connect with me
